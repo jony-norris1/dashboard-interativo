@@ -22,10 +22,6 @@ O mapa interativo (fig3) é gerado usando a função `go.Figure()` do Plotly. El
 
 A criação de um aplicativo web interativo usando a biblioteca Dash envolve a construção de um layout HTML básico e a adição de componentes interativos, como gráficos e mapas, que são atualizados dinamicamente com base na entrada do usuário.
 
-## Execução do Aplicativo
-
-Para executar o aplicativo, é necessário instalar as bibliotecas Dash, Plotly e pandas no ambiente Python. Em seguida, o código pode ser executado em um ambiente local utilizando o comando `python app.py`, onde `app.py` é o nome do arquivo que contém o código. O aplicativo estará disponível no navegador através da URL [http://127.0.0.1:8050/](http://127.0.0.1:8050/).
-
 ## Adaptação para Situações Reais
 
 Este exemplo de código pode ser adaptado para situações reais, como a análise de vendas em um negócio específico, utilizando dados reais e ajustando as visualizações e a interatividade conforme necessário.
